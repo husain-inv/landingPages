@@ -46,7 +46,9 @@
 
 /* ---- Start of min-width 480px and max-width 768px CSS ---- */
 @media all and (min-width: 480px) and (max-width: 768px) {
-	
+	.hero-section{
+        height: 100vh;
+    }
 }
 /* ---- End of min-width 480px and max-width 768px CSS ---- */
 
